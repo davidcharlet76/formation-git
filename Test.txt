@@ -3,8 +3,6 @@ Ceci est la première modification du fichier
 Nouvelle modification de fichier
 
 1er test de branche !!
-
-Test en remote
-Test en remote 2
+test en local
 <ul> </ul>
 
